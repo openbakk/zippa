@@ -171,7 +171,6 @@ https://creativecommons.org/choose/results-one?q_1=2&q_1=1&field_commercial=n&fi
 https://www.t.me/iv?url=http%3A%2F%2Fbecaps.life/%2F
 https://new.creativecommons.org/choose/results-one?q_1=2&q_1=1&field_commercial=n&field_derivatives=sa&field_jurisdiction=&field_format=Text&field_worktitle=Blog&field_attribute_to_name=Lam%20HUA&field_attribute_to_url=https%3A%2F%2Fbecaps.life/%2F
 https://www.t.me/iv?url=https%3A%2F%2Fbecaps.life/%2F
-----
 http://www.youtube.com/redirect?event=channel_description&q=https%3A%2F%2Falterativepharma.com.br%2F
 https://www.google.com/url?sa=t&url=https%3A%2F%2Falterativepharma.com.br
 https://www2.sandbox.google.de/url?sa=t&url=https%3A%2F%2Falterativepharma.com.br/%2F
@@ -340,7 +339,6 @@ https://creativecommons.org/choose/results-one?q_1=2&q_1=1&field_commercial=n&fi
 https://www.t.me/iv?url=http%3A%2F%2Falterativepharma.com.br/%2F
 https://new.creativecommons.org/choose/results-one?q_1=2&q_1=1&field_commercial=n&field_derivatives=sa&field_jurisdiction=&field_format=Text&field_worktitle=Blog&field_attribute_to_name=Lam%20HUA&field_attribute_to_url=https%3A%2F%2Falterativepharma.com.br/%2F
 https://www.t.me/iv?url=https%3A%2F%2Falterativepharma.com.br/%2F
------
 http://www.youtube.com/redirect?event=channel_description&q=https%3A%2F%2Fwww.allinswap.co%2F
 https://www.google.com/url?sa=t&url=https%3A%2F%2Fwww.allinswap.co
 https://www2.sandbox.google.de/url?sa=t&url=https%3A%2F%2Fwww.allinswap.co/%2F
