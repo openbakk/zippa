@@ -28,6 +28,7 @@ https://images.google.com.br/url?sa=t&url=https%3A%2F%2Fbecaps.life/%2F
 https://toolbarqueries.google.com.br/url?sa=t&url=https%3A%2F%2Fbecaps.life/%2F
 https://maps.google.com.br/url?sa=t&url=https%3A%2F%2Fbecaps.life/%2F
 https://clients1.google.com.br/url?sa=t&url=https%3A%2F%2Fbecaps.life/%2F
+https://becaps.life
 https://www.google.com.br/url?sa=t&url=https%3A%2F%2Fbecaps.life/%2F
 https://cse.google.com.br/url?sa=t&url=https%3A%2F%2Fbecaps.life/%2F
 https://images.google.co.jp/url?sa=t&url=https%3A%2F%2Fbecaps.life/%2F
