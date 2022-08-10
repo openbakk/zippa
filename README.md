@@ -163,3 +163,8 @@ Tags from somewhere, like: [shields.io](https://shields.io/)
 - Full screen mode
 - Multiplataform
 
+
+## Repo Size
+
+![Repository](https://img.shields.io/github/repo-size/openbakk/zippa?label=Repository)
+
