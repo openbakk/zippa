@@ -6,9 +6,9 @@ Swap, trade, buy and sell your cryptocurrencies with Allinswap.
 
 ## Screenshots
 
-![Decentralized](https://i.ibb.co/YNvhDy9/swap.png)
-![App Allinswap](https://i.ibb.co/JrD2NVV/touchmaster-20220430-23193.jpg)
-![App Allin swap](https://i.ibb.co/0mMFb1F/touchmaster-20220430-57056.jpg)
+![Decentralized](https://stokimg.com/ib/QOf8t2Q9LP.png)
+![App Allinswap](https://stokimg.com/ib/NxHj1avjbZ.jpg)
+![App Allin swap](https://stokimg.com/ib/uNijchrX0w.jpg)
 
 ## Pages
 
@@ -22,7 +22,7 @@ Swap, trade, buy and sell your cryptocurrencies with Allinswap.
 [![G1](https://img.shields.io/badge/G1-News-yellow)](http://g1negocios.com.br)
 [![Foxx99](https://img.shields.io/badge/Foxx-99-orange)](http://foxx99.com.br)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tinyurl.com/FOXX99)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.vkay.net/read-blog/4_entenda-os-procedimentos-certos-do-marketing-multinivel.html)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://podtech.gloe.in)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://blog.allinswap.co/)
 
@@ -69,38 +69,38 @@ I'm a full-stack developer person...
 
 My pages:
 
-https://bit.ly/3bvz8qv
+[estudioweb.com.br](https://estudioweb.com.br)
 
-https://bit.ly/3QiFhoA
+[https://estudioweb.com.br/educacao-financeira-5-dicas/](https://estudioweb.com.br/educacao-financeira-5-dicas/)
 
-https://bit.ly/3btQy6W
+[https://estudioweb.com.br/estrategias-no-instagram/](https://estudioweb.com.br/estrategias-no-instagram/)
 
-https://bit.ly/3Sz2Hbs
+[https://estudioweb.com.br/agro](https://estudioweb.com.br/agro/)
 
-https://bit.ly/3vCdw2o
+[http://stokimg.com](stokimg)
 
-https://bit.ly/396NMn3
+[https://stokimg.com](stokimg.com)
 
 # Hi, I'm Sept Anuella! 👋
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ioiohub.fandom.com/wiki/How_to_Tie_Dye_Using_Rit_Powder)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/r?url=https%3A%2F%2Fbecaps.life)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://estudioweb.fandom.com/wiki/User:Rikeltanati)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://telegra.ph/Browsing-Studioweb-09-03)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.reddit.com/r/cdnews99/comments/w9qyzi/becaps_vitamins_tailored_for_you_and_your_family/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sourceforge.net/p/ioiosource/_list/link)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://estudioweb.medium.com/about)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zen.yandex.ru/media/powderhorn/avoid-losing-your-shirt-in-the-foreign-exchange-market-with-one-of-these-tips-62ec4a55d9c3b0539e1b1031)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://wordpress.com/forums/topic/about-migrating-to-wordpress-com/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://archive.org/details/@van_dmorter)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://becapslife.idea.informer.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://groups.google.com/g/estudioweb)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://podtech.gloe.in)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.wsj.com/auth/sso/proxy-login?code=Zt6os4RvG0AtL2ui&state=https%3A%2F%2Fbecaps.life%2F&savelogin=on&ns=prod/accounts-wsj)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.patreon.com/powderhorn)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.google.com/url?q=http%3A%2F%2Fbecaps.life&sa=D&sntz=1&usg=AFQjCNH2aQ5sDZG6JIo9ESgYn7jxjpXCeQ)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://community.fandom.com/wiki/User:Spetuanella)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://estudioweb.fandom.com/wiki/User:Rikeltanati)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://issuu.com/traderviper)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://b.hatena.ne.jp/webtrafficseo/20220718)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://moz.com/community/q/user/seopoupseo)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://unsplash.com/@powderhorn)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.technet.microsoft.com/profile/estudioweb/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://issuu.com/studiowebtips)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zen.yandex.ru/powderhorn)
 
 
@@ -136,16 +136,23 @@ Please follow the `code of conduct` for this project.
 See our Wikis:
 
 https://en.wikipedia.org/wiki/Swimming_at_the_2011_World_Aquatics_Championships_%E2%80%93_Women%27s_50_metre_freestyle
-
 https://en.wikipedia.org/wiki/Michael_Lemonick
-
 https://en.wikipedia.org/wiki/Wendy_Schmidt
-
 https://en.wikipedia.org/wiki/Heidi_Cullen
-
 https://en.wikipedia.org/wiki/Lhade_Namloyak
-
 https://fr.wikipedia.org/wiki/Deng_Xiaoping
+https://pt.wikipedia.org/wiki/Picolinato_de_cromo(III)
+https://en.wikipedia.org/wiki/Melatonin
+https://pt.wikipedia.org/wiki/Melatonina
+https://pt.wikipedia.org/wiki/Zinco
+https://pt.wikipedia.org/wiki/Rhodiola
+https://pt.wikipedia.org/wiki/Pholiamagra
+https://en.wikipedia.org/wiki/Primula
+https://pt.wikipedia.org/wiki/Oenothera_biennis
+https://en.wikipedia.org/wiki/Chlorella
+https://en.wikipedia.org/wiki/Turmeric
+https://es.wikipedia.org/wiki/Copa_de_Espa%C3%B1a_de_f%C3%BAtbol_americano_2009
+https://en.wikipedia.org/wiki/Wikipedia:List_of_paid_editing_companies
 ## Hang tags
 
 Tags from somewhere, like: [shields.io](https://shields.io/)
