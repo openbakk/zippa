@@ -77,9 +77,9 @@ My pages:
 
 [https://estudioweb.com.br/agro](https://estudioweb.com.br/agro/)
 
-[http://stokimg.com](stokimg)
+[stokimg](http://stokimg.com)
 
-[https://stokimg.com](stokimg.com)
+[stokimg.com](https://stokimg.com)
 
 # Hi, I'm Sept Anuella! 👋
 
