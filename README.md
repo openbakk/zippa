@@ -12,7 +12,7 @@ Swap, trade, buy and sell your cryptocurrencies with Allinswap.
 
 ## Pages
 
-[![becaps.life](https://img.shields.io/badge/Becaps-Life-blue)](https://www.becaps.life)
+[![ZaraApp](https://img.shields.io/badge/Becaps-Life-blue)](https://app.zaraguest.com.br/)
 [![Youtube Channel](https://img.shields.io/badge/Becaps-Blog-yellowgreen)](https://www.youtube.com/@yoastexpert/about)
 [![Cloudflare](https://img.shields.io/badge/Becaps-Be-green)](https://cloudflare-ipfs.com/ipfs/bafybeibbxpmxcvuw3neefi426ofumkylzr5i5wvd6boraetnayd7gagsfy/)
 [![FLEEK.IPFS.IO](https://img.shields.io/badge/Allinswap-Trade-brightgreen)](https://fleek.ipfs.io/ipfs/bafybeiacjchymz3hmvlpsx726uwiawlfud7dpc2jsdot33ljtli3hpz53e/)
@@ -23,6 +23,8 @@ Swap, trade, buy and sell your cryptocurrencies with Allinswap.
 [![Foxx99](https://img.shields.io/badge/Foxx-99-orange)](http://foxx99.com.br)
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.vkay.net/read-blog/4_entenda-os-procedimentos-certos-do-marketing-multinivel.html)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zaraguest.com.br/blog/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zaraguest.com.br/blog/fortalecendo-perfil-de-links-com-guest-posts/)
 [![Google Form One](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLSeSWo2TQFfon7L7B58eKp1C1K50qO0JEfpcivnJ7L6INj_imA/viewform)
 [![Google Form Two](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScpwmpvAcke289wASXx-a2Obm4_hiIGoA5FUurYS0rCJK80MA/viewform)
 
@@ -33,6 +35,7 @@ Swap, trade, buy and sell your cryptocurrencies with Allinswap.
  - [Git Allinlify](https://github.com/openbakk/AllinLify)
  - [Git sites](https://github.com/openbakk/sites)
  - [www.vkay.net](https://www.vkay.net)
+ - [Zaraguest](https://zaraguest.com.br/)
 
 
 ## API Documentation
@@ -69,13 +72,7 @@ I'm a full-stack developer person...
 
 My pages:
 
-[estudioweb.com.br](https://estudioweb.com.br)
-
-[https://estudioweb.com.br/educacao-financeira-5-dicas/](https://estudioweb.com.br/educacao-financeira-5-dicas/)
-
-[https://estudioweb.com.br/estrategias-no-instagram/](https://estudioweb.com.br/estrategias-no-instagram/)
-
-[https://estudioweb.com.br/agro](https://estudioweb.com.br/agro/)
+[estudio](#)
 
 [stokimg](http://stokimg.com)
 
@@ -88,12 +85,12 @@ My pages:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.technet.microsoft.com/Profile/globalpresscom/activity)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://telegra.ph/Exploring-the-Clearance-Testing-Market-Insights-and-Trends-06-26)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.reddit.com/r/cdnews99/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.msdn.microsoft.com/Profile/globalpresscom)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.microsoft.com/profile/globalpresscom/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.technet.microsoft.com/Profile/icnnbigglobal)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.msdn.microsoft.com/Profile/icnnbigglobal)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.microsoft.com/profile/icnnbigglobal)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.4shared.com/u/0OxgI5jc/seocontentmachine11.html)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.technet.microsoft.com/Profile/plataformaguestpost)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.msdn.microsoft.com/Profile/plataformaguestpost)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.microsoft.com/profile/plataformaguestpost)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.technet.microsoft.com/Profile/plataformaguestpost/activity)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.msdn.microsoft.com/Profile/plataformaguestpost/activity)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://social.microsoft.com/profile/plataformaguestpost/activity/activity)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://telegra.ph/Examples-with-TypeScript-Flow-and-Reason-06-12)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://www.google.com/url?q=http%3A%2F%2Fwww.icnn.com.br&sa=D&sntz=1&usg=AFQjCNH2aQ5sDZG6JIo9ESgYn7jxjpXCeQ)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ameblo.jp/uservoicetips/)
@@ -155,6 +152,11 @@ https://en.wikipedia.org/wiki/Turmeric
 https://es.wikipedia.org/wiki/Copa_de_Espa%C3%B1a_de_f%C3%BAtbol_americano_2009
 https://en.wikipedia.org/wiki/Wikipedia:List_of_paid_editing_companies
 https://www.youtube.com/@yoastexpert/about
+https://www.nieaa.com.br/
+https://www.joomlacarioca.com.br/
+https://www.laquichebistrot.com.br/
+https://www.mubevirtual.com.br/
+https://www.x5ma.com.br/
 ## Hang tags
 
 Tags from somewhere, like: [shields.io](https://shields.io/)
